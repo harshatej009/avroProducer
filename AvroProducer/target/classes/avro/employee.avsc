@@ -1,0 +1,13 @@
+{
+   "type":"record",
+   "name":"Employee",
+   "namespace":"com.infosys",
+   "doc":"contains Employees Information",
+   "fields":[
+      {"name":"employeeID","type":"int"},
+      {"name":"name","type":"string"},
+      {"name":"surname","type":"string"},
+      {"name":"designation","type":"string"}
+      	]
+}
+         
